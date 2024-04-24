@@ -2,3 +2,4 @@
 /text2.txt
 
 auto-gen-files/*.txt
+.vs/*
